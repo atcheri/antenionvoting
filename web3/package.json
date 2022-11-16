@@ -1,0 +1,11 @@
+{
+  "name": "antenionvoting-contract",
+  "version": "1.0.0",
+  "description": "The anti dominion voting system, under web3-stosterone",
+  "author": "atsuhiro endo",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.2"
+  }
+}
